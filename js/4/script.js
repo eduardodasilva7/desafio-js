@@ -1,6 +1,5 @@
-let numero;
-numero = prompt("Digite um número:");
-numero = parseInt(numero);
+let numero = parseInt(prompt("Digite um número:"));
+
 
 let contador = 1;
 do {
